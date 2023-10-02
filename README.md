@@ -1,6 +1,6 @@
 - Will Rumfelt
-- Clemson University
-- Department of Genetics and Biochemistry
-- Genetics major with a minor in Computer Science
-- I'm interested in Bioinformatics and the intersection between genetics and computer science. Currently, I am working with the evolution of primate polyomaviruses.
-- wrumfel@clemson.edu
+- University of New Hampshire
+- Department of Molecular, Cellular, and Biomedical Sciences
+- Genetics B.S. and minor in Computer Science from Clemson University, 2022
+- I'm interested in Bioinformatics and the intersection between genetics and computer science. Currently, working to characterize salt marsh sparrow diets via fecal DNA metabarcoding.
+- william.rumfelt@unh.edu

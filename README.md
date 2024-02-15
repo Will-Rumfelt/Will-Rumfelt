@@ -2,5 +2,5 @@
 - University of New Hampshire
 - Department of Molecular, Cellular, and Biomedical Sciences
 - Genetics B.S. and minor in Computer Science from Clemson University, 2022
-- I'm interested in Bioinformatics and the intersection between genetics and computer science. Currently, working to characterize salt marsh sparrow diets via fecal DNA metabarcoding.
+- I'm interested in Bioinformatics and the intersection between genetics and computer science. Currently, working to characterize tidal marsh sparrow diets via fecal DNA metabarcoding.
 - william.rumfelt@unh.edu
